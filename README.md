@@ -1,7 +1,5 @@
 Nome: Marcela dos Santos Coelho
-
 Curso: Engenharia de Software
-
 Matrícula: 188
 
 
